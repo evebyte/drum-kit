@@ -8,8 +8,7 @@ const Footer = () => {
 					target="_blank"
 					className="font-bold underline
 					text-blue-900 dark:text-blue-300  
-					hover:text-pink-600 dark:hover:text-pink-700
-                    hover:scale-110 active:scale-90"
+					hover:text-pink-600 dark:hover:text-pink-700"
 					rel="noopener noreferrer"
 				>
 					eve
