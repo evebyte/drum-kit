@@ -114,7 +114,7 @@ const Pad = ({ id, letter, sound }) => {
 	return (
 		<button
 			id={id}
-			keyTrigger={letter}
+			keytrigger={letter}
 			className="drum-pad 
             rounded-lg font-bold 
             text-2xl md:text-3xl lg:text-4xl
